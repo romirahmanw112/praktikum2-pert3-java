@@ -187,7 +187,7 @@ Anton dan Riko adalah dua objek yang dibuat dari class Person.
 - Riko memiliki nilai "Riko", "Laki-laki", dan 30 untuk atribut nama, jenisKelamin, dan umur.
 ```
 
-![gambar](pemrograman-orientasi-objek3-java/ss1-latihan3.jpeg)
+![gambar](pemrograman-orientasi-objek2-java/pemrograman-orientasi-objek3-java/ss1-latihan3.jpeg)
 
 # Buatlah kode java untuk :
 # • Mendeklaraskian classAkunBank dan tetapkan nilai saldo awal dengan intance method simpanUang, ambilUang dan cekSaldo
@@ -283,8 +283,8 @@ public static void main(String[] args) {
 ```
 
 # Output :
-![gambar](pemrograman-orientasi-objek3-java/ss1.png)
+![gambar](pemrograman-orientasi-objek2-java/pemrograman-orientasi-objek3-java/ss1.png)
 
 # • Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000, kemudian panggil 3 method tersebut dan tampilkan proses berikut :
 
-![gambar](pemrograman-orientasi-objek3-java/ss1.png)
+![gambar](pemrograman-orientasi-objek2-java/pemrograman-orientasi-objek3-java/ss1.png)
